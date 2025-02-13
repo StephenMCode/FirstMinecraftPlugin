@@ -8,10 +8,15 @@ public final class FirstPlugin extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
 
+        System.out.println("StephenMCode's plugin has started");
+
     }
 
     @Override
     public void onDisable() {
         // Plugin shutdown logic
+
+        System.out.println("StephenMCode's plugin has stopped");
+
     }
 }
