@@ -2,3 +2,6 @@ name: FirstPlugin
 version: '${project.version}'
 main: me.stephenmcode.firstplugin.FirstPlugin
 api-version: '1.21'
+authors: [ StephenMCode ]
+description: My first plugin
+website: https://github.com/StephenMCode
